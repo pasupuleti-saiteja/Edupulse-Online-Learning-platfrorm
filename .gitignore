@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Java build files
+target/
+
+# React build files
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
